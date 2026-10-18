@@ -1,0 +1,6 @@
+{
+  "pulseaudio": {
+    "repository": "https://github.com/taowen/pulseaudio.git",
+    "revision": "fe22e39ac0f0abc5bc083eba04922248802bc52c"
+  }
+}
