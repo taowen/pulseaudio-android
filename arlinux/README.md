@@ -1,1 +1,1 @@
-ARLinux NDK/AAudio build recipe. The PulseAudio fork revision is pinned in sources.json; Android fixes are committed there. Build procedures: https://github.com/taowen/wine/blob/arlinux/arlinux/BUILD.md
+See [BUILD.md](BUILD.md) for the single NDK/CMake build implementation and its ownership.
